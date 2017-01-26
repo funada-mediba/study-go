@@ -11,6 +11,9 @@ func main() {
 	   a
 	   a
 	   a
-	*/
+	   a
+	   a
+	   a
 
+	*/
 }
